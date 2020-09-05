@@ -1,0 +1,17 @@
+{
+  "name": "com.seabirdsgames.shapeeditor",
+  "version": "0.1.0",
+  "displayName": "Shape Editor",
+  "description": "Simplistic shape editor made for Unity3D.",
+  "unity": "2020.1",
+  "unityRelease": "7b3",
+  "keywords": [
+    "shapes",
+    "custom editor",
+    "drawing"
+  ],
+  "author": {
+    "name": "Julien KLAER",
+    "email": "klaer.julien@gmail.com"
+  }
+}

@@ -1,0 +1,4 @@
+﻿{
+  "name": "Shape Custom Editor",
+  "references": ["Shape Runtime"]
+}
